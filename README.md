@@ -1,5 +1,5 @@
 # currency-exchange-demo
-Simple currency exchange functionality with microservices architecture
+Simple currency exchange service with microservices architecture
 
 -Spring Boot
 -Spring Cloud
